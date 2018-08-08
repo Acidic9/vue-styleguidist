@@ -1,6 +1,6 @@
 {
-  "name": "vue-styleguidist",
-  "description": "Vue components style guide generator",
+  "name": "vue-styleguidist-babel-7",
+  "description": "Vue components style guide generator with Babel 7",
   "version": "1.7.13",
   "homepage": "https://github.com/vue-styleguidist/vue-styleguidist",
   "repository": {
