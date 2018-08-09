@@ -311,7 +311,7 @@ Function that allows you to override the mechanism used to parse props from a so
 ```javascript
 module.exports = {
   propsParser(filePath, source) {
-    return require('vue-docgen-api').parse(filePath)
+    return require('@nauticus-blockchain/vue-docgen-api-babel-7').parse(filePath)
   }
 }
 ```

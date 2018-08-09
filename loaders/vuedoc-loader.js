@@ -5,7 +5,7 @@ const logger = require('glogg')('rsg');
 const getExamples = require('./utils/getExamples');
 const requireIt = require('./utils/requireIt');
 const getComponentVueDoc = require('./utils/getComponentVueDoc');
-const vueDocs = require('vue-docgen-api');
+const vueDocs = require('@nauticus-blockchain/vue-docgen-api-babel-7');
 const defaultSortProps = require('./utils/sortProps');
 
 const examplesLoader = path.resolve(__dirname, './examples-loader.js');
