@@ -1,7 +1,7 @@
 {
   "name": "@nauticus-blockchain/vue-styleguidist-babel-7",
   "description": "Vue components style guide generator with Babel 7",
-  "version": "1.7.15",
+  "version": "1.7.16",
   "homepage": "https://github.com/vue-styleguidist/vue-styleguidist",
   "repository": {
     "type": "git",
