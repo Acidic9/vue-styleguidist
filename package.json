@@ -26,7 +26,7 @@
     "npm": ">=3"
   },
   "dependencies": {
-    "@nauticus-blockchain/vue-docgen-api-babel-7": "^2.3.11",
+    "@nauticus-blockchain/vue-docgen-api-babel-7": "^2.3.13",
     "@vxna/mini-html-webpack-template": "^0.1.4",
     "acorn": "^5.5.3",
     "ast-types": "^0.11.3",
